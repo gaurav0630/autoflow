@@ -157,4 +157,4 @@ Agent: embeds query → retrieves relevant chunks → answers with context
 
 ## 👤 Author
 
-**Gaurav Verma** — [github.com/gaurav0630](https://github.com/gaurav0630) · [LinkedIn](https://linkedin.com/in/gauravverma1106) · gauravverma.jhns@gmail.com
+**Gaurav Verma** — [github.com/gaurav0630](https://github.com/gaurav0630) · [LinkedIn](https://linkedin.com/in/gauravverma1106) · gaurav2001verma11@gmail.com
